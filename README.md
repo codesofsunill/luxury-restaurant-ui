@@ -8,7 +8,7 @@ Built with clean code and elegant design principles, this project is ideal for r
 
 ## 🚀 Live Demo
 
-👉CLICK HERE TO SEE[LIVE DEMO](https://codesofsunill.github.io/luxury-restaurant-ui/)
+👉CLICK HERE TO SEE [LIVE DEMO](https://codesofsunill.github.io/luxury-restaurant-ui/)
 
 ## ✨ Features
 
