@@ -6,6 +6,10 @@ Built with clean code and elegant design principles, this project is ideal for r
 
 ---
 
+## 🚀 Live Demo
+
+👉CLICK HERE TO SEE[LIVE DEMO](https://codesofsunill.github.io/luxury-restaurant-ui/)
+
 ## ✨ Features
 
 ✔ Dark luxury design
@@ -20,10 +24,6 @@ Built with clean code and elegant design principles, this project is ideal for r
 ✔ Professional spacing system
 
 ---
-## 🚀 Live Demo
-
-👉CLICK HERE TO SEE[LIVE DEMO](https://codesofsunill.github.io/luxury-restaurant-ui/)
-
 
 
 ## 🛠️ Tech Stack
