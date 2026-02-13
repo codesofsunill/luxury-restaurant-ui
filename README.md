@@ -20,6 +20,11 @@ Built with clean code and elegant design principles, this project is ideal for r
 ✔ Professional spacing system
 
 ---
+## 🚀 Live Demo
+
+👉CLICK HERE TO SEE[LIVE DEMO](https://codesofsunill.github.io/luxury-restaurant-ui/)
+
+
 
 ## 🛠️ Tech Stack
 
@@ -40,25 +45,6 @@ Perfect for:
 * Portfolio showcase
 * Client demonstrations
 
----
-
-## 🚀 Live Demo
-
-👉 ()
-
----
-
-## 💡 Customization
-
-You can easily customize:
-
-* Colors
-* Images
-* Fonts
-* Menu items
-* Branding
-
-to match any restaurant identity.
 
 ---
 
@@ -66,7 +52,9 @@ to match any restaurant identity.
 
 Designed & Developed by **Sunil**
 # CONTACT
-  Contact Me on [Instagram](https://instagram.com/nill_02s)
-                
+  Contact Me on [INSTAGRAM](https://instagram.com/nill_02s)
+---
+  Contact Me on [WHATSAPP](https://wa.me/919040742899)
+  
 
 If you like this project, consider giving it a ⭐ to support the work!
