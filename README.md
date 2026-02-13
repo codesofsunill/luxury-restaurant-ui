@@ -6,22 +6,36 @@ Built with clean code and elegant design principles, this project is ideal for r
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Luxury Restaurant
 
-👉CLICK HERE TO SEE [LIVE DEMO](https://codesofsunill.github.io/luxury-restaurant-ui/)
+   [LIVE DEMO](https://codesofsunill.github.io/luxury-restaurant-ui/)
 
-## ✨ Features
+     
+
+##    ✨ FEATURES
 
 ✔ Dark luxury design
+
 ✔ Fully responsive layout
+
 ✔ Glassmorphism navbar
+
 ✔ Parallax hero section
+
 ✔ Animated food cards
+
 ✔ Image gallery
+
 ✔ Interactive reservation form
+
 ✔ Smooth scrolling
+
 ✔ Modern typography
+
 ✔ Professional spacing system
+
+✔ Whatsapp booking 
+
 
 ---
 
